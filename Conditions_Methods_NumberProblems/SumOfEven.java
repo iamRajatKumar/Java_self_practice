@@ -1,4 +1,4 @@
-package Conditions_Methods_NumberProblems;
+package conditions_methods_numberProblems;
 
 class SumOfEven{
 	public static void main(String args[]){
