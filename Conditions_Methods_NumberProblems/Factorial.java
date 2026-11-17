@@ -3,7 +3,7 @@ package conditions_methods_numberProblems;
 public class Factorial {
 
     public static void main(String[] args) {
-        System.out.println(factorial(30));
+        System.out.println(factorial(5));
     }
 
     public static long factorial(int number) {
